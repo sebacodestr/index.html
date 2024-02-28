@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+@import url('https://fonts.googleapis.com/css2?family=Chau+Philomene+One:ital@0;1&family=Montserrat+Alternates:wght@600;700&family=Roboto:wght@300&display=swap');
 
 
 body{
@@ -35,7 +35,7 @@ float:left;
 }
 
 #detalle{
-    background: #539dff;
+    background: #8b076a;
     width: 50%;
     height: 100%;
     float: left;
